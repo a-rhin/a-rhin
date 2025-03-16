@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @a-rhin
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on web designing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Steve
+I currently hold A Bachelor Degree in Geography and Recource Development, from the University of Ghana.
+Im much interested in Remote Sensing & GIS.
+--
+I also have a strong interest in programing
+I’m currently learning coding (html), next is going to be javascript.
+You assistance and mentorship are welcome.
+--
+📧 thisisarhin@gmail.com
+
 
 <!---
 a-rhin/a-rhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
